@@ -36,7 +36,7 @@ function ProductDetails({ params }) {
 
 
 	return (
-		<div className='bg-primary'>
+		<div className='bg-primary pt-6'>
 			<div className='mt-5'>
 
 				<div className='container grid grid-cols-1 lg:grid-cols-2 md:gap-0 gap-5 justify-around mt-10 pb-10'>
